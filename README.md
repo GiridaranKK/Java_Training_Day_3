@@ -15,8 +15,8 @@
     * Do while loop
     * For each loop
 # Task1 
-  int numb=90;//
-  checkk if numb is even or odd
+  int numb=90
+  check if the number is even or odd
   store the result in a variable and pass to switch
   get a string in switch, print message along with the number.
 # Task2
